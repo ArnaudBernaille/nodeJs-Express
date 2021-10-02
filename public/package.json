@@ -1,0 +1,21 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "node-express exemple ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "arnaud": "echo \"Bonjour Arnaud, ça va bien\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnaudBernaille/nodeJs-Express.git"
+  },
+  "author": "arnaud bernaille",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArnaudBernaille/nodeJs-Express/issues"
+  },
+  "homepage": "https://github.com/ArnaudBernaille/nodeJs-Express#readme"
+}
