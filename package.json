@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/ArnaudBernaille/nodeJs-Express#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "4.16",
     "morgan": "^1.9.0"
   }
